@@ -1,0 +1,405 @@
+{
+  "data":[
+  {
+    "name": "Rochell Syer",
+    "studentId": "811805415",
+    "_class": "I. L",
+    "address": "02565 Buena Vista Parkway",
+    "dob": "8/2/2002",
+    "contactNumber": "941-918-3403"
+  },
+  {
+    "name": "Chrysa Kenney",
+    "studentId": "697882019",
+    "_class": "Y. C",
+    "address": "5289 Haas Hill",
+    "dob": "5/20/2002",
+    "contactNumber": "677-880-6555"
+  },
+  {
+    "name": "Pam Pendrick",
+    "studentId": "077949689",
+    "_class": "E. B",
+    "address": "0 Service Plaza",
+    "dob": "8/31/2004",
+    "contactNumber": "472-739-7176"
+  },
+  {
+    "name": "Ruperta Marland",
+    "studentId": "992194072",
+    "_class": "U. R",
+    "address": "4316 Butterfield Court",
+    "dob": "4/18/2004",
+    "contactNumber": "575-325-5356"
+  },
+  {
+    "name": "Tore Tuison",
+    "studentId": "024674710",
+    "_class": "K. J",
+    "address": "58 Warbler Parkway",
+    "dob": "8/31/2002",
+    "contactNumber": "837-267-7967"
+  },
+  {
+    "name": "Alethea Filipov",
+    "studentId": "640973634",
+    "_class": "G. C",
+    "address": "723 Butternut Center",
+    "dob": "11/24/1996",
+    "contactNumber": "776-957-1021"
+  },
+  {
+    "name": "Vinni Isaac",
+    "studentId": "452539949",
+    "_class": "T. R",
+    "address": "3 Sherman Way",
+    "dob": "5/19/2001",
+    "contactNumber": "892-406-4331"
+  },
+  {
+    "name": "Gino Dulton",
+    "studentId": "936044787",
+    "_class": "B. I",
+    "address": "877 Anderson Lane",
+    "dob": "7/22/1999",
+    "contactNumber": "647-228-1910"
+  },
+  {
+    "name": "Conan Dawdry",
+    "studentId": "001192553",
+    "_class": "O. O",
+    "address": "6 Oxford Parkway",
+    "dob": "9/17/2003",
+    "contactNumber": "855-313-8192"
+  },
+  {
+    "name": "Shani Trunby",
+    "studentId": "828115585",
+    "_class": "H. H",
+    "address": "122 Fisk Way",
+    "dob": "4/29/1999",
+    "contactNumber": "938-670-3522"
+  },
+  {
+    "name": "Keane Boland",
+    "studentId": "083392562",
+    "_class": "R. B",
+    "address": "409 Cambridge Street",
+    "dob": "12/6/2002",
+    "contactNumber": "222-720-8254"
+  },
+  {
+    "name": "Kaylil Izkoveski",
+    "studentId": "256576955",
+    "_class": "V. X",
+    "address": "8 Graceland Junction",
+    "dob": "4/21/2003",
+    "contactNumber": "359-336-1077"
+  },
+  {
+    "name": "Joyous Lyste",
+    "studentId": "361741380",
+    "_class": "L. U",
+    "address": "46411 Carey Pass",
+    "dob": "5/22/1998",
+    "contactNumber": "969-311-7005"
+  },
+  {
+    "name": "Saxon Sandyfirth",
+    "studentId": "700542765",
+    "_class": "P. X",
+    "address": "55 Blue Bill Park Lane",
+    "dob": "7/27/1998",
+    "contactNumber": "116-682-8331"
+  },
+  {
+    "name": "Sheffield Clausius",
+    "studentId": "194725649",
+    "_class": "B. W",
+    "address": "89 Bluejay Street",
+    "dob": "11/18/1998",
+    "contactNumber": "954-858-1024"
+  },
+  {
+    "name": "Benedicto Dunderdale",
+    "studentId": "007936224",
+    "_class": "B. I",
+    "address": "22 Northwestern Hill",
+    "dob": "8/13/2002",
+    "contactNumber": "257-351-0840"
+  },
+  {
+    "name": "Jamie Romain",
+    "studentId": "706853989",
+    "_class": "R. Q",
+    "address": "0 Village Terrace",
+    "dob": "1/1/2003",
+    "contactNumber": "104-223-8334"
+  },
+  {
+    "name": "Karlee Davenhall",
+    "studentId": "207440070",
+    "_class": "W. O",
+    "address": "40556 Westerfield Place",
+    "dob": "7/2/2000",
+    "contactNumber": "582-622-0648"
+  },
+  {
+    "name": "Marcella Gartin",
+    "studentId": "549669728",
+    "_class": "U. F",
+    "address": "4 Carpenter Trail",
+    "dob": "8/10/2003",
+    "contactNumber": "959-850-0758"
+  },
+  {
+    "name": "Tedi Stanislaw",
+    "studentId": "775723917",
+    "_class": "A. F",
+    "address": "3640 Ilene Place",
+    "dob": "7/5/2001",
+    "contactNumber": null
+  },
+  {
+    "name": "Archie Crowdy",
+    "studentId": "689191012",
+    "_class": "F. H",
+    "address": "0 Daystar Drive",
+    "dob": "8/6/1998",
+    "contactNumber": "660-458-4029"
+  },
+  {
+    "name": "Eden Service",
+    "studentId": "359534400",
+    "_class": "Y. T",
+    "address": "7538 Reinke Hill",
+    "dob": "2/11/2005",
+    "contactNumber": "276-100-3822"
+  },
+  {
+    "name": "Mar Harvatt",
+    "studentId": "500631075",
+    "_class": "Z. I",
+    "address": "821 Grim Trail",
+    "dob": "8/3/2003",
+    "contactNumber": "705-550-2235"
+  },
+  {
+    "name": "Loralee Butterwick",
+    "studentId": "181493785",
+    "_class": "T. W",
+    "address": "343 Russell Hill",
+    "dob": "10/1/2000",
+    "contactNumber": "967-460-1168"
+  },
+  {
+    "name": "Nichole Lavrick",
+    "studentId": "476486660",
+    "_class": "H. V",
+    "address": "22 Corscot Trail",
+    "dob": "3/28/1999",
+    "contactNumber": "345-132-6491"
+  },
+  {
+    "name": "Lorenza Penman",
+    "studentId": "200997401",
+    "_class": "C. K",
+    "address": "574 Heffernan Way",
+    "dob": "11/4/2000",
+    "contactNumber": "330-986-7322"
+  },
+  {
+    "name": "Norrie Jaime",
+    "studentId": "513573420",
+    "_class": "X. V",
+    "address": "016 Evergreen Drive",
+    "dob": "2/22/2001",
+    "contactNumber": "585-679-6119"
+  },
+  {
+    "name": "Harriot Haddington",
+    "studentId": "111555231",
+    "_class": "Q. F",
+    "address": "9 Roth Point",
+    "dob": "8/4/1998",
+    "contactNumber": "347-495-0512"
+  },
+  {
+    "name": "Zola Reaman",
+    "studentId": "599146967",
+    "_class": "V. H",
+    "address": "75 Bashford Alley",
+    "dob": "7/17/2003",
+    "contactNumber": "214-773-7839"
+  },
+  {
+    "name": "Gianna Childe",
+    "studentId": "614856053",
+    "_class": "A. A",
+    "address": "3 1st Trail",
+    "dob": "8/22/2005",
+    "contactNumber": "548-619-1098"
+  },
+  {
+    "name": "Maura Synder",
+    "studentId": "798204367",
+    "_class": "K. W",
+    "address": "0 Trailsway Court",
+    "dob": "9/4/1998",
+    "contactNumber": "774-347-3763"
+  },
+  {
+    "name": "Raff Pook",
+    "studentId": "566097054",
+    "_class": "A. R",
+    "address": "48518 Mitchell Parkway",
+    "dob": "11/9/1997",
+    "contactNumber": "633-702-7263"
+  },
+  {
+    "name": "Jean Ivanchov",
+    "studentId": "255249009",
+    "_class": "V. B",
+    "address": "18 Delladonna Court",
+    "dob": "9/10/2005",
+    "contactNumber": "110-516-3846"
+  },
+  {
+    "name": "Gnni Bartley",
+    "studentId": "515814830",
+    "_class": "Z. O",
+    "address": "49 Prairieview Avenue",
+    "dob": "4/11/2003",
+    "contactNumber": "411-548-4753"
+  },
+  {
+    "name": "Arlee Welsby",
+    "studentId": "260430201",
+    "_class": "W. F",
+    "address": "06797 Shoshone Circle",
+    "dob": "7/18/1997",
+    "contactNumber": "462-828-4117"
+  },
+  {
+    "name": "Mariejeanne Howchin",
+    "studentId": "326594789",
+    "_class": "W. Z",
+    "address": "141 Bowman Trail",
+    "dob": "1/13/1998",
+    "contactNumber": null
+  },
+  {
+    "name": "Essy Jaume",
+    "studentId": "304063750",
+    "_class": "T. K",
+    "address": "8705 Starling Avenue",
+    "dob": "10/7/2002",
+    "contactNumber": "643-335-0700"
+  },
+  {
+    "name": "Jehu Cultcheth",
+    "studentId": "967178219",
+    "_class": "H. Y",
+    "address": "5 Morningstar Point",
+    "dob": "8/14/2000",
+    "contactNumber": "917-684-8378"
+  },
+  {
+    "name": "Fawn Tripon",
+    "studentId": "230707378",
+    "_class": "U. L",
+    "address": "4723 Old Gate Plaza",
+    "dob": "4/5/2003",
+    "contactNumber": "520-786-0496"
+  },
+  {
+    "name": "Standford Lewzey",
+    "studentId": "776121314",
+    "_class": "V. U",
+    "address": "68 Cody Lane",
+    "dob": "1/2/2000",
+    "contactNumber": "227-148-4221"
+  },
+  {
+    "name": "Ransom Legion",
+    "studentId": "552581397",
+    "_class": "K. Q",
+    "address": "168 Jenifer Alley",
+    "dob": "5/9/2000",
+    "contactNumber": null
+  },
+  {
+    "name": "Kissee Biscomb",
+    "studentId": "575388467",
+    "_class": "N. E",
+    "address": "4877 Ridge Oak Street",
+    "dob": "5/7/2000",
+    "contactNumber": "975-472-6675"
+  },
+  {
+    "name": "Harley Jonathon",
+    "studentId": "798467043",
+    "_class": "D. C",
+    "address": "5 Lukken Alley",
+    "dob": "8/24/1997",
+    "contactNumber": "473-123-4675"
+  },
+  {
+    "name": "Jeri Andrews",
+    "studentId": "156427802",
+    "_class": "F. D",
+    "address": "0 Esker Crossing",
+    "dob": "6/15/1998",
+    "contactNumber": "152-508-8142"
+  },
+  {
+    "name": "Gonzales Kibard",
+    "studentId": "701397858",
+    "_class": "K. E",
+    "address": "86 Fuller Court",
+    "dob": "2/26/1999",
+    "contactNumber": "424-283-9247"
+  },
+  {
+    "name": "Joli Nigh",
+    "studentId": "108715472",
+    "_class": "M. R",
+    "address": "7 Hanover Plaza",
+    "dob": "8/4/1999",
+    "contactNumber": "895-151-4523"
+  },
+  {
+    "name": "Nannette Salvadori",
+    "studentId": "279667869",
+    "_class": "X. R",
+    "address": "2 Jana Trail",
+    "dob": "4/15/1999",
+    "contactNumber": "211-496-8488"
+  },
+  {
+    "name": "Melissa Brookson",
+    "studentId": "835602346",
+    "_class": "T. M",
+    "address": "45062 Emmet Terrace",
+    "dob": "1/18/2005",
+    "contactNumber": "786-544-5797"
+  },
+  {
+    "name": "Sydney Gabbot",
+    "studentId": "826795151",
+    "_class": "T. Z",
+    "address": "1 Goodland Terrace",
+    "dob": "5/16/2003",
+    "contactNumber": "940-373-8066"
+  },
+  {
+    "name": "Torr Shepton",
+    "studentId": "755740979",
+    "_class": "U. U",
+    "address": "34913 Forest Point",
+    "dob": "12/25/1999",
+    "contactNumber": "130-192-9950"
+  }
+]
+
+}

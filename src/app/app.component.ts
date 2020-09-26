@@ -1,4 +1,5 @@
 import { Component, VERSION } from '@angular/core';
+import {StudentService} from './student.service';
 
 @Component({
   selector: 'my-app',
@@ -6,5 +7,8 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular ' + VERSION.major;
+  constructor(private readonly studentService: StudentService){}
+  get students$(){
+    return this.studentService.getStudents();
+  }
 }
