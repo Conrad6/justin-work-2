@@ -8,10 +8,12 @@
 							class="list-group-item text-center active d-flex justify-content-between align-items-center">
 							STUDENT LIST
 						</li>
-						<li style="cursor: pointer" (click)="selectStudent(student)" class="list-group-item list-group-item-active" [class.bg-success]="(selectedStudent$|async) === student" [class.text-white]="(selectedStudent$|async) === student"
+						<div id="student-list">
+              <li style="cursor: pointer" (click)="selectStudent(student)" class="list-group-item list-group-item-active" [class.bg-success]="(selectedStudent$|async) === student" [class.text-white]="(selectedStudent$|async) === student"
 							*ngFor="let student of (students$|async);let i=index">
 							{{i+1}}. {{student.name}}
 						</li>
+            </div>
 					</ul>
 				</nav>
 			</div>
