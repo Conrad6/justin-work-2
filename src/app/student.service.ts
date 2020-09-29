@@ -12,6 +12,6 @@ export class StudentService {
   }
   getStudents(){
     
-    return of(data['data'] as Student[]);
+    return of((data as any).data as Student[]);
   }
 }
